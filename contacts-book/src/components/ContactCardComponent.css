@@ -1,0 +1,26 @@
+.card {  
+    margin: 4%;
+}
+
+.media{
+    align-items:center;
+    height: 65px;
+  }
+
+.pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    size: large;
+    border-radius:50%;
+    height:100%;
+    widows:100%;
+    
+  }
+
+  .content{
+    height: 50px;
+    background-color: grey; 
+    text-align: left;
+    color: white;   
+  }

@@ -1,0 +1,8 @@
+
+.root {
+  display: 'flex';
+  flex-wrap: 'wrap';
+  overflow: 'hidden';
+  margin: 2% ;
+  border: 2px solid rgb(241, 239, 239);
+}
