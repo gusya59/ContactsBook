@@ -1,6 +1,11 @@
 # ContactsBook
+##### A contacts book app with a built in search.
 
-# ![](contactsbook.gif)
+#### ![](contactsbook.gif)
+
+## Built With
+React 16.13.0
+https://randomuser.me/ API
 
 ### How To Use:
   Step 1:
