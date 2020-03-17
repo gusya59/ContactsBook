@@ -1,5 +1,7 @@
 # ContactsBook
 
+![](contactsbook.gif)
+
 ### How To Use:
   Step 1:
 ```sh
